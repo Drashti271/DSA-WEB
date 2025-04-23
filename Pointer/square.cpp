@@ -7,7 +7,7 @@ int main(){
     int *ptrS;
     
     cout<<"Enter side of square: ";
-    cin>>square;
+    cin>>s;
 
     ptrS = &s;
 
