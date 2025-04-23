@@ -3,13 +3,13 @@ using namespace std;
 
 int main(){
 
-    float ptrPI = 3.14,r,area;
+    float PI = 3.14,r,area;
     float *ptrPI,*ptrR;
     
     cout<<"Enter r: ";
     cin>>r;
 
-    ptrPI = &pi;
+    ptrPI = &PI;
     ptrR = &r;
     
     area = (*ptrPI)*(*ptrR)*(*ptrR);
