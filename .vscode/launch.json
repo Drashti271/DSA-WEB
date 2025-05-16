@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Admin/Desktop/Constructor-Destructer",
-      "program": "c:/Users/Admin/Desktop/Constructor-Destructer/build/Debug/outDebug",
+      "cwd": "c:/Users/Admin/Desktop/Date-16_template",
+      "program": "c:/Users/Admin/Desktop/Date-16_template/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
