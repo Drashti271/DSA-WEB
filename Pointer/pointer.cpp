@@ -8,7 +8,7 @@ int main(){
 
     ptr = &a;
 
-    cout<<"Adress of alue: "<<*ptr<<endl;
+    cout<<"Adress of value: "<<*ptr<<endl;
     cout<<"Value of Adress: "<<ptr<<endl;
 
     return 0;
